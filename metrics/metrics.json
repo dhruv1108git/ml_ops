@@ -1,8 +1,8 @@
 {
-  "accuracy": 0.9833333333333333,
-  "precision": 0.9841666666666666,
-  "recall": 0.9833333333333333,
-  "train_size": 90,
-  "test_size": 60,
-  "total_size": 150
+  "accuracy": 0.95,
+  "precision": 0.95,
+  "recall": 0.95,
+  "train_size": 120,
+  "test_size": 80,
+  "total_size": 200
 }
